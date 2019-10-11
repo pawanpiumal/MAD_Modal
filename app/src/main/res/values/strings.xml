@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MAD_Prathapi</string>
+    <string name="Username">User Name</string>
+    <string name="Password">Password</string>
+    <string name="Logi">Login</string>
+    <string name="Register">Register</string>
+    <string name="DOB">Date of Birth</string>
+    <string name="Gender">Gender</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="Update">Update Profile</string>
+    <string name="Search">Search</string>
+    <string name="Edit">Edit</string>
+    <string name="Delete">Delete</string>
+</resources>
